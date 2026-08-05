@@ -1,3 +1,30 @@
+[
+  {
+    "id": "mythichud",
+    "modrinthId": null,
+    "local": true,
+    "name": "RPG MythicHUD — Mob Can Göstergesi",
+    "author": "Melo",
+    "version": "1.0.0",
+    "category": "gameplay",
+    "icon": "💀",
+    "desc": "MythicMobs mob canını % olarak gösterir. Modelli canavarlar desteklenir. F9 ile açılır/kapanır.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "leveluplegends-menu",
+    "modrinthId": null,
+    "local": true,
+    "name": "Level Up Legends Kilit & Can Göstergesi Modu",
+    "author": "Melo",
+    "version": "1.0.0",
+    "category": "gameplay",
+    "icon": "🛡️",
+    "desc": "Oyun içi ana menü koruması, kilitli sunucu entegrasyonu, sağ üst canlı oyuncu ve hedef can barı göstergesi.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
   {
     "id": "embeddium",
     "modrinthId": "embeddium",

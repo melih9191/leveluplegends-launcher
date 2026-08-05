@@ -1,0 +1,387 @@
+[
+  {
+    "id": "mythichud",
+    "modrinthId": null,
+    "local": true,
+    "name": "RPG MythicHUD — Mob Can Göstergesi",
+    "author": "Melo",
+    "version": "1.0.0",
+    "category": "gameplay",
+    "icon": "💀",
+    "desc": "MythicMobs mob canını % olarak gösterir. Modelli canavarlar desteklenir. F9 ile açılır/kapanır.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "leveluplegends-menu",
+    "modrinthId": null,
+    "local": true,
+    "name": "Level Up Legends Kilit & Can Göstergesi Modu",
+    "author": "Melo",
+    "version": "1.0.0",
+    "category": "gameplay",
+    "icon": "🛡️",
+    "desc": "Oyun içi ana menü koruması, kilitli sunucu entegrasyonu, sağ üst canlı oyuncu ve hedef can barı göstergesi.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "first-person-model",
+    "modrinthId": "first-person-model",
+    "name": "First-Person Model",
+    "author": "tr7zw",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "👁️",
+    "desc": "1. şahıs kamerasında vücudunuzu, bacaklarınızı ve kılıç sallama hareketlerinizi görün.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "3d-skin-layers",
+    "modrinthId": "3dskinlayers",
+    "name": "3D Skin Layers",
+    "author": "tr7zw",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "👕",
+    "desc": "Oyuncu skin katmanlarını ve kıyafet detaylarını 3 boyutlu derinlikli hale getirir.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "custom-player-models",
+    "modrinthId": "custom-player-models",
+    "name": "Custom Player Models (CPM)",
+    "author": "tombenpotter",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "🤸",
+    "desc": "Gelişmiş 3D oyuncu animasyonları, akıcı yürüyüş ve kılıç fizikleri.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "not-enough-animations",
+    "modrinthId": "not-enough-animations",
+    "name": "Not Enough Animations",
+    "author": "tr7zw",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "🏃",
+    "desc": "3. şahıs görünümünde canlı animasyonlar: yemek yeme, iksir içme, harita bakma, yüzme.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "embeddium",
+    "modrinthId": "embeddium",
+    "name": "Embeddium (Sodium)",
+    "author": "jellysquid3",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "⚡",
+    "desc": "Sodium render motoru. Ekran kartını tam kapasite kullanarak FPS'i katlar.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "entity-culling",
+    "modrinthId": "entityculling",
+    "name": "Entity Culling",
+    "author": "tr7zw",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "🚀",
+    "desc": "Görünmeyen mob ve oyuncuları renderlamayarak FPS performansını artırır.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "xaeros-minimap",
+    "modrinthId": "xaeros-minimap",
+    "name": "Xaero's Minimap",
+    "author": "xaero96",
+    "version": "1.21.1",
+    "category": "map",
+    "icon": "🗺️",
+    "desc": "Ekran köşesinde canlı mini-harita, pusula, oyuncu işaretçileri ve Waypoint desteği.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "ambient-sounds",
+    "modrinthId": "ambient-sounds",
+    "name": "AmbientSounds",
+    "author": "CreativeMD",
+    "version": "1.21.1",
+    "category": "sound",
+    "icon": "🍃",
+    "desc": "Biyomlara özel gerçekçi rüzgar, kuş, doğa ve mağara ses efektleri.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "sound-physics-remastered",
+    "modrinthId": "sound-physics-remastered",
+    "name": "Sound Physics Remastered",
+    "author": "henkelmax",
+    "version": "1.21.1",
+    "category": "sound",
+    "icon": "🔊",
+    "desc": "Mağara, bina ve açık alanlarda gerçekçi yankı, akustik ve ses emilimi.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "camera-overhaul",
+    "modrinthId": "camera-overhaul",
+    "name": "Camera Overhaul",
+    "author": "Coda",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "🎥",
+    "desc": "Yürürken ve dönerken gerçekçi kamera eğilmesi ve dinamik odaklanma.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "shoulder-surfing-reloaded",
+    "modrinthId": "shoulder-surfing-reloaded",
+    "name": "Shoulder Surfing Reloaded",
+    "author": "Exopandora",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "🤺",
+    "desc": "Omuz üstü 3. şahıs kamera açısı ve serbest nişan alma desteği.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "particle-rain",
+    "modrinthId": "particle-rain",
+    "name": "Particle Rain",
+    "author": "Pigcart",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "🌧️",
+    "desc": "Yağmur ve kar yağışını 3D parçacık efektleriyle yüksek kaliteli renderlar.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "fresh-animations",
+    "modrinthId": "fresh-animations",
+    "name": "Fresh Animations",
+    "author": "Fresh_LX",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "🐲",
+    "desc": "Mob ve yaratıklar için canlı ve dinamik yüz/vücut animasyonları.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "cloth-config",
+    "modrinthId": "cloth-config",
+    "name": "Cloth Config v15",
+    "author": "shedaniel",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "🛠️",
+    "desc": "Sistem ve arayüz modları için gerekli konfigürasyon altyapısı.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "architectury-api",
+    "modrinthId": "architectury-api",
+    "name": "Architectury API",
+    "author": "shedaniel",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "🏗️",
+    "desc": "Modlar arası köprü ve sistem entegrasyon kütüphanesi.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "creative-core",
+    "modrinthId": "creativecore",
+    "name": "CreativeCore",
+    "author": "CreativeMD",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "⚙️",
+    "desc": "Ses ve grafik modları için temel çekirdek kütüphanesi.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "puzzles-lib",
+    "modrinthId": "puzzles-lib",
+    "name": "Puzzles Lib",
+    "author": "Fuzss",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "🧩",
+    "desc": "Sistem ve arayüz modları için gerekli çekirdek kütüphane modu.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "yacl",
+    "modrinthId": "yacl",
+    "name": "YetAnotherConfigLib (YACL)",
+    "author": "isxander",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "⚙️",
+    "desc": "Gelişmiş arayüz ve mod konfigürasyon altyapı kütüphanesi.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "legendary-tooltips",
+    "modrinthId": "legendary-tooltips",
+    "name": "Legendary Tooltips",
+    "author": "Fuzss",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "✨",
+    "desc": "Eşyaların nadirlik seviyesine göre (Common, Rare, Legendary, Mythic) renkli ve animasyonlu çerçeveler ekler.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "immediatelyfast",
+    "modrinthId": "immediatelyfast",
+    "name": "ImmediatelyFast",
+    "author": "RaphiMC",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "⚡",
+    "desc": "GUI, HUD ve metin renderlama performansını 2-3 kat hızlandırarak FPS düşüşlerini önler.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "visuality",
+    "modrinthId": "visuality-forge",
+    "name": "Visuality",
+    "author": "Vazkii",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "💥",
+    "desc": "Kritik vuruş kıvılcımları, sıçrama ve vuruş parçacık efektleriyle dövüş hissini geliştirir.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "oculus",
+    "modrinthId": "oculus",
+    "name": "Oculus (Embeddium Shader Desteği)",
+    "author": "Arakne",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "☀️",
+    "desc": "Embeddium ile %100 uyumlu çalışan gölge (Shader) desteği. Sinematik ve gerçekçi ışıklandırma sunar.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "iceberg",
+    "modrinthId": "iceberg",
+    "name": "Iceberg",
+    "author": "Fuzss",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "🧊",
+    "desc": "Legendary Tooltips ve arayüz modları için gerekli çekirdek kütüphane modu.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "prism",
+    "modrinthId": "prism-lib",
+    "name": "Prism Lib",
+    "author": "Fuzss",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "💎",
+    "desc": "Legendary Tooltips ve eşya renk efektleri için gerekli kütüphane modu.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "chat-heads",
+    "modrinthId": "chat-heads",
+    "name": "Chat Heads — Sohbet İkonları",
+    "author": "dzwdz",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "💬",
+    "desc": "Oyun içi chat mesajlarında oyuncu isimlerinin yanında skin kafa ikonlarını gösterir.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "falling-leaves",
+    "modrinthId": "falling-leaves",
+    "name": "Falling Leaves — Düşen Yaprak Efektleri",
+    "author": "Cheos",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "🍃",
+    "desc": "Ağaçlardan rüzgarda süzülerek düşen 3D yaprak parçacık efektleriyle ortam atmosferini güzelleştirir.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "equipment-compare",
+    "modrinthId": "equipment-compare",
+    "name": "Equipment Compare — Eşya Karşılaştırma",
+    "author": "Fuzss",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "⚔️",
+    "desc": "Envanter veya sandıklarda eşyaların üzerine gelindiğinde takılı olan eşyanızla yan yana istatistik kıyaslaması yapar.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "wi-zoom",
+    "modrinthId": "wi-zoom",
+    "name": "WI Zoom — Kamera Odaklanma",
+    "author": "Wombat",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "🔍",
+    "desc": "C tuşuna basarak uzaktaki Boss'lara, zindanlara ve oyunculara pürüzsüz şekilde odaklanmanızı (Zoom) sağlar.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "physicsmod",
+    "modrinthId": "physicsmod",
+    "name": "Physics Mod — Bez & Kıyafet Fizikleri",
+    "author": "Progeen",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "🧥",
+    "desc": "Karakter yürürken ve koşarken pelerin ile kıyafetlerin süzülmesini sağlayan gerçekçi bez ve kumaş fiziği.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

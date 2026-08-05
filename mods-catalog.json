@@ -1,78 +1,3 @@
-[
-  {
-    "id": "mythichud",
-    "modrinthId": null,
-    "local": true,
-    "name": "RPG MythicHUD — Mob Can Göstergesi",
-    "author": "Melo",
-    "version": "1.0.0",
-    "category": "gameplay",
-    "icon": "💀",
-    "desc": "MythicMobs mob canını % olarak gösterir. Modelli canavarlar desteklenir. F9 ile açılır/kapanır.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
-    "id": "leveluplegends-menu",
-    "modrinthId": null,
-    "local": true,
-    "name": "Level Up Legends Kilit & Can Göstergesi Modu",
-    "author": "Melo",
-    "version": "1.0.0",
-    "category": "gameplay",
-    "icon": "🛡️",
-    "desc": "Oyun içi ana menü koruması, kilitli sunucu entegrasyonu, sağ üst canlı oyuncu ve hedef can barı göstergesi.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
-    "id": "first-person-model",
-    "modrinthId": "first-person-model",
-    "name": "First-Person Model",
-    "author": "tr7zw",
-    "version": "1.21.1",
-    "category": "movement",
-    "icon": "👁️",
-    "desc": "1. şahıs kamerasında vücudunuzu, bacaklarınızı ve kılıç sallama hareketlerinizi görün.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
-    "id": "3d-skin-layers",
-    "modrinthId": "3dskinlayers",
-    "name": "3D Skin Layers",
-    "author": "tr7zw",
-    "version": "1.21.1",
-    "category": "movement",
-    "icon": "👕",
-    "desc": "Oyuncu skin katmanlarını ve kıyafet detaylarını 3 boyutlu derinlikli hale getirir.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
-    "id": "custom-player-models",
-    "modrinthId": "custom-player-models",
-    "name": "Custom Player Models (CPM)",
-    "author": "tombenpotter",
-    "version": "1.21.1",
-    "category": "movement",
-    "icon": "🤸",
-    "desc": "Gelişmiş 3D oyuncu animasyonları, akıcı yürüyüş ve kılıç fizikleri.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
-    "id": "not-enough-animations",
-    "modrinthId": "not-enough-animations",
-    "name": "Not Enough Animations",
-    "author": "tr7zw",
-    "version": "1.21.1",
-    "category": "movement",
-    "icon": "🏃",
-    "desc": "3. şahıs görünümünde canlı animasyonlar: yemek yeme, iksir içme, harita bakma, yüzme.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
   {
     "id": "embeddium",
     "modrinthId": "embeddium",
@@ -372,16 +297,17 @@
     "desc": "Karakter yürürken ve koşarken pelerin ile kıyafetlerin süzülmesini sağlayan gerçekçi bez ve kumaş fiziği.",
     "defaultEnabled": true,
     "forgeCompatible": true
+  },
+  {
+    "id": "appleskin",
+    "modrinthId": "appleskin",
+    "name": "AppleSkin — Can & Doygunluk Göstergesi",
+    "author": "squeek502",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "🍖",
+    "desc": "Yemeklerin ve iksirlerin ne kadar can dolduracağını eşya açıklamalarında ve HUD üzerinde gösterir.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
   }
 ]
-
-
-
-
-
-
-
-
-
-
-

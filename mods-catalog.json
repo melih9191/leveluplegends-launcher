@@ -290,6 +290,18 @@
     "forgeCompatible": true
   },
   {
+    "id": "konkrete",
+    "modrinthId": "konkrete",
+    "name": "Konkrete — Arayüz & Zoom Kütüphanesi",
+    "author": "Kikugie",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "🧱",
+    "desc": "Just Zoom ve arayüz modları için gerekli temel kütüphane altyapısı.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
     "id": "cloth-config",
     "modrinthId": "cloth-config",
     "name": "Cloth Config v15",

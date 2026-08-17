@@ -24,6 +24,18 @@
     "forgeCompatible": true
   },
   {
+    "id": "noisium",
+    "modrinthId": "noisium",
+    "name": "Noisium — Dünya Yükleme & FPS Hızlandırıcı",
+    "author": "Steveplays",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "🚀",
+    "desc": "Dünya ve chunk yükleme motorunu optimize ederek FPS düşüşlerini önler.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
     "id": "simple-splash-screen",
     "modrinthId": "simple-splash-screen",
     "local": true,
@@ -38,26 +50,13 @@
   },
   {
     "id": "player-animator",
-    "modrinthId": "player-animator",
+    "modrinthId": "playeranimator",
     "name": "playerAnimator (Animasyon Altyapısı)",
     "author": "KosmX",
     "version": "1.21.1",
     "category": "movement",
     "icon": "⚙️",
     "desc": "Gelişmiş oyuncu hareket ve vücut animasyonları için gerekli temel motor altyapısı.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
-    "id": "mythichud",
-    "modrinthId": null,
-    "local": true,
-    "name": "RPG MythicHUD — Mob Can Göstergesi",
-    "author": "Melo",
-    "version": "1.0.0",
-    "category": "gameplay",
-    "icon": "💀",
-    "desc": "MythicMobs mob canını % olarak gösterir. Modelli canavarlar desteklenir. F9 ile açılır/kapanır.",
     "defaultEnabled": true,
     "forgeCompatible": true
   },
@@ -160,7 +159,7 @@
   },
   {
     "id": "ambient-sounds",
-    "modrinthId": "ambient-sounds",
+    "modrinthId": "ambientsounds",
     "name": "AmbientSounds",
     "author": "CreativeMD",
     "version": "1.21.1",
@@ -184,7 +183,7 @@
   },
   {
     "id": "camera-overhaul",
-    "modrinthId": "camera-overhaul",
+    "modrinthId": "cameraoverhaul",
     "name": "Camera Overhaul",
     "author": "Coda",
     "version": "1.21.1",
@@ -203,18 +202,6 @@
     "category": "movement",
     "icon": "🤾",
     "desc": "Omuz üstü 3. şahıs kamera açısı ve serbest nişan alma desteği.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
-    "id": "fresh-animations",
-    "modrinthId": "fresh-animations",
-    "name": "Fresh Animations",
-    "author": "Fresh_LX",
-    "version": "1.21.1",
-    "category": "movement",
-    "icon": "🐉",
-    "desc": "Mob ve yaratıklar için canlı ve dinamik yüz/vücut animasyonları.",
     "defaultEnabled": true,
     "forgeCompatible": true
   },
@@ -315,18 +302,6 @@
     "forgeCompatible": true
   },
   {
-    "id": "oculus",
-    "modrinthId": "oculus",
-    "name": "Oculus (Embeddium Shader Desteği)",
-    "author": "Arakne",
-    "version": "1.21.1",
-    "category": "graphics",
-    "icon": "☀️",
-    "desc": "Embeddium ile %100 uyumlu çalışan gölge (Shader) desteği. Sinematik ve gerçekçi ışıklandırma sunar.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
     "id": "iceberg",
     "modrinthId": "iceberg",
     "name": "Iceberg",
@@ -387,10 +362,10 @@
     "forgeCompatible": true
   },
   {
-    "id": "wi-zoom",
-    "modrinthId": "wi-zoom",
-    "name": "WI Zoom — Kamera Odaklanma",
-    "author": "Wombat",
+    "id": "just-zoom",
+    "modrinthId": "just-zoom",
+    "name": "Just Zoom — Kamera Odaklanma",
+    "author": "Kikugie",
     "version": "1.21.1",
     "category": "graphics",
     "icon": "🔍",

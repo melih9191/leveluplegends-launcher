@@ -242,18 +242,6 @@
     "forgeCompatible": true
   },
   {
-    "id": "iris",
-    "modrinthId": "iris",
-    "name": "Iris Shaders — Sinematik Gölge Desteği",
-    "author": "Iris-Shaders",
-    "version": "1.21.1",
-    "category": "graphics",
-    "icon": "☀️",
-    "desc": "Embeddium ile tam uyumlu resmi Shader motoru; gerçekçi ışıklandırma ve gölgeler sağlar.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
     "id": "dynamiccrosshair",
     "modrinthId": "dynamiccrosshair",
     "name": "Dynamic Crosshair — Dinamik RPG Nişangahı",

@@ -1,5 +1,54 @@
 [
   {
+    "id": "modernfix",
+    "modrinthId": "modernfix",
+    "name": "ModernFix — Hızlı Başlatma & FPS Artışı",
+    "author": "embeddedt",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "⚡",
+    "desc": "Minecraft'ın açılış hızını 2-3 kat hızlandırır, bellek sızıntılarını önler ve FPS dalgalanmalarını giderir.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "ferrite-core",
+    "modrinthId": "ferrite-core",
+    "name": "FerriteCore — RAM Tasarrufu & Bellek Sıkıştırma",
+    "author": "malte0811",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "🧠",
+    "desc": "Arka plan veri yapılarını optimize ederek 1 ila 2 GB RAM tasarrufu sağlar ve bellek darboğazını önler.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "simple-splash-screen",
+    "modrinthId": "simple-splash-screen",
+    "local": true,
+    "name": "Level Up Legends — Özel Yükleme Ekranı & Logo",
+    "author": "HypherionMC",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "✨",
+    "desc": "Minecraft açılırken Level Up Legends logosu, özel arka plan ve canlı yükleme barı (%1, %5, %100) gösterir.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "player-animator",
+    "modrinthId": "player-animator",
+    "name": "playerAnimator (Animasyon Altyapısı)",
+    "author": "KosmX",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "⚙️",
+    "desc": "Gelişmiş oyuncu hareket ve vücut animasyonları için gerekli temel motor altyapısı.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
     "id": "mythichud",
     "modrinthId": null,
     "local": true,
@@ -22,6 +71,54 @@
     "category": "gameplay",
     "icon": "🛡️",
     "desc": "Oyun içi ana menü koruması, kilitli sunucu entegrasyonu, sağ üst canlı oyuncu ve hedef can barı göstergesi.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "first-person-model",
+    "modrinthId": "first-person-model",
+    "name": "First-Person Model",
+    "author": "tr7zw",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "👁️",
+    "desc": "1. şahıs kamerasında vücudunuzu, bacaklarınızı ve kılıç sallama hareketlerinizi görün.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "3d-skin-layers",
+    "modrinthId": "3dskinlayers",
+    "name": "3D Skin Layers",
+    "author": "tr7zw",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "👕",
+    "desc": "Oyuncu skin katmanlarını ve kıyafet detaylarını 3 boyutlu derinlikli hale getirir.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "custom-player-models",
+    "modrinthId": "custom-player-models",
+    "name": "Custom Player Models (CPM)",
+    "author": "tombenpotter",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "🤸",
+    "desc": "Gelişmiş 3D oyuncu animasyonları, akıcı yürüyüş ve kılıç fizikleri.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "not-enough-animations",
+    "modrinthId": "not-enough-animations",
+    "name": "Not Enough Animations",
+    "author": "tr7zw",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "🏃",
+    "desc": "3. şahıs görünümünde canlı animasyonlar: yemek yeme, iksir içme, harita bakma, yüzme.",
     "defaultEnabled": true,
     "forgeCompatible": true
   },
@@ -68,7 +165,7 @@
     "author": "CreativeMD",
     "version": "1.21.1",
     "category": "sound",
-    "icon": "🍃",
+    "icon": "🌲",
     "desc": "Biyomlara özel gerçekçi rüzgar, kuş, doğa ve mağara ses efektleri.",
     "defaultEnabled": true,
     "forgeCompatible": true
@@ -104,20 +201,8 @@
     "author": "Exopandora",
     "version": "1.21.1",
     "category": "movement",
-    "icon": "🤺",
+    "icon": "🤾",
     "desc": "Omuz üstü 3. şahıs kamera açısı ve serbest nişan alma desteği.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
-    "id": "particle-rain",
-    "modrinthId": "particle-rain",
-    "name": "Particle Rain",
-    "author": "Pigcart",
-    "version": "1.21.1",
-    "category": "graphics",
-    "icon": "🌧️",
-    "desc": "Yağmur ve kar yağışını 3D parçacık efektleriyle yüksek kaliteli renderlar.",
     "defaultEnabled": true,
     "forgeCompatible": true
   },
@@ -128,7 +213,7 @@
     "author": "Fresh_LX",
     "version": "1.21.1",
     "category": "movement",
-    "icon": "🐲",
+    "icon": "🐉",
     "desc": "Mob ve yaratıklar için canlı ve dinamik yüz/vücut animasyonları.",
     "defaultEnabled": true,
     "forgeCompatible": true
@@ -314,18 +399,6 @@
     "forgeCompatible": true
   },
   {
-    "id": "physicsmod",
-    "modrinthId": "physicsmod",
-    "name": "Physics Mod — Bez & Kıyafet Fizikleri",
-    "author": "Progeen",
-    "version": "1.21.1",
-    "category": "movement",
-    "icon": "🧥",
-    "desc": "Karakter yürürken ve koşarken pelerin ile kıyafetlerin süzülmesini sağlayan gerçekçi bez ve kumaş fiziği.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
     "id": "appleskin",
     "modrinthId": "appleskin",
     "name": "AppleSkin — Can & Doygunluk Göstergesi",
@@ -334,6 +407,18 @@
     "category": "gameplay",
     "icon": "🍖",
     "desc": "Yemeklerin ve iksirlerin ne kadar can dolduracağını eşya açıklamalarında ve HUD üzerinde gösterir.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "classic-bar-unofficial",
+    "modrinthId": "classic-bar-unofficial",
+    "name": "Classic Bar — Can ve Zırh Barları Optimizasyonu",
+    "author": "Trikos",
+    "version": "1.21.1",
+    "category": "graphics",
+    "icon": "❤️",
+    "desc": "7.500 kalp çizimini kaldırarak tek bar üzerinden 15.000+ HP renderlar ve FPS düşüşünü %100 engeller.",
     "defaultEnabled": true,
     "forgeCompatible": true
   }

@@ -480,5 +480,17 @@
     "desc": "7.500 kalp çizimini kaldırarak tek bar üzerinden 15.000+ HP renderlar ve FPS düşüşünü %100 engeller.",
     "defaultEnabled": true,
     "forgeCompatible": true
+  },
+  {
+    "id": "attributefix",
+    "modrinthId": "attributefix",
+    "name": "AttributeFix — Max Can (1024) Sınırını Kaldırır",
+    "author": "Darkhax",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "🩹",
+    "desc": "Vanilla'nın generic.max_health, armor, attack damage gibi attribute'lardaki hard-coded 1024 gibi sınırlarını istemci tarafında kaldırır. Sunucu (Paper) tarafındaki karşılığı RPGStat eklentisinde ayrıca yapılıyor.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
   }
 ]

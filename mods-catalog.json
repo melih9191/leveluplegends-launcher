@@ -482,6 +482,30 @@
     "forgeCompatible": true
   },
   {
+    "id": "bookshelf-lib",
+    "modrinthId": "bookshelf-lib",
+    "name": "Bookshelf (Darkhax Kütüphanesi)",
+    "author": "Darkhax",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "📚",
+    "desc": "AttributeFix'in calismasi icin gereken temel kutuphane modu.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "prickle",
+    "modrinthId": "prickle",
+    "name": "Prickle (Darkhax Kütüphanesi)",
+    "author": "Darkhax",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "🌵",
+    "desc": "AttributeFix'in calismasi icin gereken temel kutuphane modu.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
     "id": "attributefix",
     "modrinthId": "attributefix",
     "name": "AttributeFix — Max Can (1024) Sınırını Kaldırır",
@@ -489,7 +513,7 @@
     "version": "1.21.1",
     "category": "gameplay",
     "icon": "🩹",
-    "desc": "Vanilla'nın generic.max_health, armor, attack damage gibi attribute'lardaki hard-coded 1024 gibi sınırlarını istemci tarafında kaldırır. Sunucu (Paper) tarafındaki karşılığı RPGStat eklentisinde ayrıca yapılıyor.",
+    "desc": "Vanilla'nın generic.max_health, armor, attack damage gibi attribute'lardaki hard-coded 1024 gibi sınırlarını istemci tarafında kaldırır (Bookshelf ve Prickle kütüphaneleri gerektirir). Sunucu (Paper) tarafındaki karşılığı RPGStat eklentisinde ayrıca yapılıyor.",
     "defaultEnabled": true,
     "forgeCompatible": true
   }

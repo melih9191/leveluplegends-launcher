@@ -374,6 +374,18 @@
     "forgeCompatible": true
   },
   {
+    "id": "tooltip-overhaul",
+    "modrinthId": "tooltip-overhaul",
+    "name": "Tooltip Overhaul — RPG Nadirlik Çerçeveleri",
+    "author": "Xylonity",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "🖼️",
+    "desc": "Eşya tooltip'lerine nadirlik seviyesine göre (Common, Rare, Epic, Legendary, Mythic) özelleştirilebilir renkli çerçeveler, açılış animasyonları ve görsel efektler ekler. Legendary Tooltips'in açık lisanslı, bağımlılıksız yerine geçer.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
     "id": "chat-heads",
     "modrinthId": "chat-heads",
     "name": "Chat Heads — Sohbet İkonları",

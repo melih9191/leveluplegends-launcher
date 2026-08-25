@@ -61,6 +61,30 @@
     "forgeCompatible": true
   },
   {
+    "id": "player-animation-library",
+    "modrinthId": "player-animation-library",
+    "name": "Player Animation Library (Animasyon Altyapısı 2)",
+    "author": "Team vF2t5zaN",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "🧬",
+    "desc": "SmoothPlayerAnimations'ın çalışması için gereken ayrı bir animasyon kütüphanesi (playerAnimator'dan farklı, ayrı bir proje). DENEME AŞAMASINDA - varsayılan kapalı.",
+    "defaultEnabled": false,
+    "forgeCompatible": true
+  },
+  {
+    "id": "smooth-player-animations",
+    "modrinthId": "smoothplayeranimations",
+    "name": "SmoothPlayerAnimations — Akıcı Yürüyüş & Koşu Animasyonu",
+    "author": "3f7 / SmoothPlayerAnimations Team",
+    "version": "1.21.1",
+    "category": "movement",
+    "icon": "🏃",
+    "desc": "Yürüme, koşma, sprint, yüzme, tırmanma ve bekleme (idle) animasyonlarını vanilla'ya yakın kalarak daha akıcı hale getirir. Player Animation Library gerektirir. DENEME AŞAMASINDA - varsayılan kapalı, test edilip onaylandıktan sonra herkese açılacak.",
+    "defaultEnabled": false,
+    "forgeCompatible": true
+  },
+  {
     "id": "leveluplegends-menu",
     "modrinthId": null,
     "local": true,

@@ -457,5 +457,41 @@
     "desc": "Vanilla'nın generic.max_health, armor, attack damage gibi attribute'lardaki hard-coded 1024 gibi sınırlarını istemci tarafında kaldırır (Bookshelf ve Prickle kütüphaneleri gerektirir). Sunucu (Paper) tarafındaki karşılığı RPGStat eklentisinde ayrıca yapılıyor.",
     "defaultEnabled": true,
     "forgeCompatible": true
+  },
+  {
+    "id": "jamlib",
+    "modrinthId": "jamlib",
+    "name": "JamLib — Envanter Kütüphanesi",
+    "author": "JamCoreModding",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "🧰",
+    "desc": "Sort It Out! modunun çalışması için gereken temel kütüphane.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "sort-it-out",
+    "modrinthId": "sort-it-out",
+    "name": "Sort It Out! — Envanter Otomatik Sıralama",
+    "author": "JamCoreModding",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "🧺",
+    "desc": "Tuşla envanteri ve sandıkları otomatik sıralar. Client-side çalışır, sunucu gerekmez.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
+  },
+  {
+    "id": "configurable-boss-bars",
+    "modrinthId": "configurable-boss-bars",
+    "name": "Configurable Boss Bars — Boss Bar Özelleştirme",
+    "author": "CursedUtility",
+    "version": "1.21.1",
+    "category": "gameplay",
+    "icon": "🐲",
+    "desc": "Dünya bossu ve turnuva boss bar'larının rengini/metnini özelleştirir, birden fazla boss bar'ı üst üste yığar, F7 ile gizler/gösterir.",
+    "defaultEnabled": true,
+    "forgeCompatible": true
   }
 ]

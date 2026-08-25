@@ -61,30 +61,6 @@
     "forgeCompatible": true
   },
   {
-    "id": "player-animation-library",
-    "modrinthId": "player-animation-library",
-    "name": "Player Animation Library (Animasyon Altyapısı 2)",
-    "author": "Team vF2t5zaN",
-    "version": "1.21.1",
-    "category": "movement",
-    "icon": "🧬",
-    "desc": "SmoothPlayerAnimations'ın çalışması için gereken ayrı bir animasyon kütüphanesi (playerAnimator'dan farklı, ayrı bir proje). DENEME AŞAMASINDA - varsayılan kapalı.",
-    "defaultEnabled": false,
-    "forgeCompatible": true
-  },
-  {
-    "id": "smooth-player-animations",
-    "modrinthId": "smoothplayeranimations",
-    "name": "SmoothPlayerAnimations — Akıcı Yürüyüş & Koşu Animasyonu",
-    "author": "3f7 / SmoothPlayerAnimations Team",
-    "version": "1.21.1",
-    "category": "movement",
-    "icon": "🏃",
-    "desc": "Yürüme, koşma, sprint, yüzme, tırmanma ve bekleme (idle) animasyonlarını vanilla'ya yakın kalarak daha akıcı hale getirir. Player Animation Library gerektirir. DENEME AŞAMASINDA - varsayılan kapalı, test edilip onaylandıktan sonra herkese açılacak.",
-    "defaultEnabled": false,
-    "forgeCompatible": true
-  },
-  {
     "id": "leveluplegends-menu",
     "modrinthId": null,
     "local": true,
@@ -309,7 +285,7 @@
     "version": "1.21.1",
     "category": "gameplay",
     "icon": "🧱",
-    "desc": "Just Zoom ve arayüz modları için gerekli temel kütüphane altyapısı.",
+    "desc": "Arayüz ve zoom modları için gerekli temel kütüphane altyapısı.",
     "defaultEnabled": true,
     "forgeCompatible": true
   },
@@ -374,18 +350,6 @@
     "forgeCompatible": true
   },
   {
-    "id": "legendary-tooltips",
-    "modrinthId": "legendary-tooltips",
-    "name": "Legendary Tooltips",
-    "author": "Fuzss",
-    "version": "1.21.1",
-    "category": "graphics",
-    "icon": "✨",
-    "desc": "Eşyaların nadirlik seviyesine göre (Common, Rare, Legendary, Mythic) renkli ve animasyonlu çerçeveler ekler.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
     "id": "immediatelyfast",
     "modrinthId": "immediatelyfast",
     "name": "ImmediatelyFast",
@@ -410,30 +374,6 @@
     "forgeCompatible": true
   },
   {
-    "id": "iceberg",
-    "modrinthId": "iceberg",
-    "name": "Iceberg",
-    "author": "Fuzss",
-    "version": "1.21.1",
-    "category": "gameplay",
-    "icon": "🧊",
-    "desc": "Legendary Tooltips ve arayüz modları için gerekli çekirdek kütüphane modu.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
-    "id": "prism",
-    "modrinthId": "prism-lib",
-    "name": "Prism Lib",
-    "author": "Fuzss",
-    "version": "1.21.1",
-    "category": "gameplay",
-    "icon": "💎",
-    "desc": "Legendary Tooltips ve eşya renk efektleri için gerekli kütüphane modu.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
     "id": "chat-heads",
     "modrinthId": "chat-heads",
     "name": "Chat Heads — Sohbet İkonları",
@@ -442,42 +382,6 @@
     "category": "gameplay",
     "icon": "💬",
     "desc": "Oyun içi chat mesajlarında oyuncu isimlerinin yanında skin kafa ikonlarını gösterir.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
-    "id": "falling-leaves",
-    "modrinthId": "falling-leaves",
-    "name": "Falling Leaves — Düşen Yaprak Efektleri",
-    "author": "Cheos",
-    "version": "1.21.1",
-    "category": "graphics",
-    "icon": "🍃",
-    "desc": "Ağaçlardan rüzgarda süzülerek düşen 3D yaprak parçacık efektleriyle ortam atmosferini güzelleştirir.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
-    "id": "equipment-compare",
-    "modrinthId": "equipment-compare",
-    "name": "Equipment Compare — Eşya Karşılaştırma",
-    "author": "Fuzss",
-    "version": "1.21.1",
-    "category": "gameplay",
-    "icon": "⚔️",
-    "desc": "Envanter veya sandıklarda eşyaların üzerine gelindiğinde takılı olan eşyanızla yan yana istatistik kıyaslaması yapar.",
-    "defaultEnabled": true,
-    "forgeCompatible": true
-  },
-  {
-    "id": "just-zoom",
-    "modrinthId": "just-zoom",
-    "name": "Just Zoom — Kamera Odaklanma",
-    "author": "Kikugie",
-    "version": "1.21.1",
-    "category": "graphics",
-    "icon": "🔍",
-    "desc": "C tuşuna basarak uzaktaki Boss'lara, zindanlara ve oyunculara pürüzsüz şekilde odaklanmanızı (Zoom) sağlar.",
     "defaultEnabled": true,
     "forgeCompatible": true
   },

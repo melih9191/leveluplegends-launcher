@@ -376,12 +376,13 @@
   {
     "id": "tooltip-overhaul",
     "modrinthId": "tooltip-overhaul",
+    "pinnedVersionId": "FqeNLuz3",
     "name": "Tooltip Overhaul — RPG Nadirlik Çerçeveleri",
     "author": "Xylonity",
     "version": "1.21.1",
     "category": "gameplay",
     "icon": "🖼️",
-    "desc": "Eşya tooltip'lerine nadirlik seviyesine göre (Common, Rare, Epic, Legendary, Mythic) özelleştirilebilir renkli çerçeveler, açılış animasyonları ve görsel efektler ekler. Legendary Tooltips'in açık lisanslı, bağımlılıksız yerine geçer.",
+    "desc": "Eşya tooltip'lerine nadirlik seviyesine göre (Common, Rare, Epic, Legendary, Mythic) özelleştirilebilir renkli çerçeveler, açılış animasyonları ve görsel efektler ekler. Legendary Tooltips'in açık lisanslı, bağımlılıksız yerine geçer. NOT: v1.4.3'e sabitlendi çünkü v1.4.4+ NeoForge 21.1.224+ istiyor, launcher ise 21.1.219 kuruyor — launcher NeoForge sürümü yükseltilirse pinnedVersionId kaldırılıp en güncel sürüme geçilebilir.",
     "defaultEnabled": true,
     "forgeCompatible": true
   },
